@@ -1,6 +1,937 @@
 {
- "generatedAt": "2026-11-14T05:05:45.516Z",
+ "generatedAt": "2026-11-14T05:11:46.820Z",
  "items": [],
- "metrics": [],
+ "metrics": [
+  {
+   "id": "m_20260813_fxxe56wi",
+   "date": "2026-08-13T00:00:00.000Z",
+   "views": 54,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260814_4be9o8gn",
+   "date": "2026-08-14T00:00:00.000Z",
+   "views": 88,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260815_3m7qoyee",
+   "date": "2026-08-15T00:00:00.000Z",
+   "views": 46,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260816_4oms5e7d",
+   "date": "2026-08-16T00:00:00.000Z",
+   "views": 70,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260817_k6qw39bk",
+   "date": "2026-08-17T00:00:00.000Z",
+   "views": 65,
+   "likes": 4,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260818_p3u0xbr0",
+   "date": "2026-08-18T00:00:00.000Z",
+   "views": 47,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260819_19ddnb14",
+   "date": "2026-08-19T00:00:00.000Z",
+   "views": 23,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260820_igq4laeq",
+   "date": "2026-08-20T00:00:00.000Z",
+   "views": 72,
+   "likes": 6,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260821_0n3fa565",
+   "date": "2026-08-21T00:00:00.000Z",
+   "views": 16,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260822_yc7k9cv2",
+   "date": "2026-08-22T00:00:00.000Z",
+   "views": 21,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260823_vs5vw6pv",
+   "date": "2026-08-23T00:00:00.000Z",
+   "views": 38,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260824_x6qq0eu7",
+   "date": "2026-08-24T00:00:00.000Z",
+   "views": 53,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260825_pyrdj5zc",
+   "date": "2026-08-25T00:00:00.000Z",
+   "views": 55,
+   "likes": 5,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260826_3x7mai1j",
+   "date": "2026-08-26T00:00:00.000Z",
+   "views": 81,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260827_0ujgb17x",
+   "date": "2026-08-27T00:00:00.000Z",
+   "views": 51,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260828_7a3oqzek",
+   "date": "2026-08-28T00:00:00.000Z",
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260829_koegbsej",
+   "date": "2026-08-29T00:00:00.000Z",
+   "views": 9,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260830_d3jhpttj",
+   "date": "2026-08-30T00:00:00.000Z",
+   "views": 24,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260831_ofzh2vit",
+   "date": "2026-08-31T00:00:00.000Z",
+   "views": 7,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260901_10nrzdck",
+   "date": "2026-09-01T00:00:00.000Z",
+   "views": 24,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260902_xakvftwl",
+   "date": "2026-09-02T00:00:00.000Z",
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260903_aunxc6uk",
+   "date": "2026-09-03T00:00:00.000Z",
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260904_k1unr6kn",
+   "date": "2026-09-04T00:00:00.000Z",
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260905_45l0nuk5",
+   "date": "2026-09-05T00:00:00.000Z",
+   "views": 14,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260906_9ksxgt3k",
+   "date": "2026-09-06T00:00:00.000Z",
+   "views": 22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260907_x8ev7806",
+   "date": "2026-09-07T00:00:00.000Z",
+   "views": 39,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260908_15ogh5vk",
+   "date": "2026-09-08T00:00:00.000Z",
+   "views": 63,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260909_4sf7wn74",
+   "date": "2026-09-09T00:00:00.000Z",
+   "views": 53,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260910_dt0i3h6d",
+   "date": "2026-09-10T00:00:00.000Z",
+   "views": 20,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260911_gh677fgi",
+   "date": "2026-09-11T00:00:00.000Z",
+   "views": 12,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260912_exxyyvmt",
+   "date": "2026-09-12T00:00:00.000Z",
+   "views": 22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260913_pgja29lt",
+   "date": "2026-09-13T00:00:00.000Z",
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260914_32fbyccr",
+   "date": "2026-09-14T00:00:00.000Z",
+   "views": 23,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260915_n29cto4j",
+   "date": "2026-09-15T00:00:00.000Z",
+   "views": 49,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260916_bqf9x1am",
+   "date": "2026-09-16T00:00:00.000Z",
+   "views": 13,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260917_davukgir",
+   "date": "2026-09-17T00:00:00.000Z",
+   "views": 18,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260918_7avg4ja9",
+   "date": "2026-09-18T00:00:00.000Z",
+   "views": 13,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260919_7e5lix2o",
+   "date": "2026-09-19T00:00:00.000Z",
+   "views": 15,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260920_1g99wk3x",
+   "date": "2026-09-20T00:00:00.000Z",
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260921_a0n7wm8h",
+   "date": "2026-09-21T00:00:00.000Z",
+   "views": 18,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260922_1ix6pii4",
+   "date": "2026-09-22T00:00:00.000Z",
+   "views": 60,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260923_nn270vib",
+   "date": "2026-09-23T00:00:00.000Z",
+   "views": 4,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260924_1qqh3ik3",
+   "date": "2026-09-24T00:00:00.000Z",
+   "views": 24,
+   "likes": 1,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260925_e3s9nwyz",
+   "date": "2026-09-25T00:00:00.000Z",
+   "views": 26,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260926_ubifh3th",
+   "date": "2026-09-26T00:00:00.000Z",
+   "views": 43,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260927_55phfdww",
+   "date": "2026-09-27T00:00:00.000Z",
+   "views": 21,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260928_4zdzc942",
+   "date": "2026-09-28T00:00:00.000Z",
+   "views": 24,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260929_ltr07tpx",
+   "date": "2026-09-29T00:00:00.000Z",
+   "views": 18,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20260930_5aa5nm2i",
+   "date": "2026-09-30T00:00:00.000Z",
+   "views": 19,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261001_xn6pxbk9",
+   "date": "2026-10-01T00:00:00.000Z",
+   "views": 8,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261002_61pxpcz7",
+   "date": "2026-10-02T00:00:00.000Z",
+   "views": 55,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261003_m0l8ct1z",
+   "date": "2026-10-03T00:00:00.000Z",
+   "views": 40,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261004_zqnkfgsc",
+   "date": "2026-10-04T00:00:00.000Z",
+   "views": 10,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261005_dw5bn82j",
+   "date": "2026-10-05T00:00:00.000Z",
+   "views": 30,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261006_zd04m24s",
+   "date": "2026-10-06T00:00:00.000Z",
+   "views": 27,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261007_x25cpkun",
+   "date": "2026-10-07T00:00:00.000Z",
+   "views": 6,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261008_nspuk3ov",
+   "date": "2026-10-08T00:00:00.000Z",
+   "views": 56,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261009_9d9fjoqa",
+   "date": "2026-10-09T00:00:00.000Z",
+   "views": 22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261010_zw250g18",
+   "date": "2026-10-10T00:00:00.000Z",
+   "views": 19,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261011_vw4vtn79",
+   "date": "2026-10-11T00:00:00.000Z",
+   "views": 24,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261012_rcledkg8",
+   "date": "2026-10-12T00:00:00.000Z",
+   "views": 11,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261013_c3layzze",
+   "date": "2026-10-13T00:00:00.000Z",
+   "views": 6,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261014_biqf0nku",
+   "date": "2026-10-14T00:00:00.000Z",
+   "views": 7,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261015_77xe3nj9",
+   "date": "2026-10-15T00:00:00.000Z",
+   "views": 5,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261016_24zzeyl9",
+   "date": "2026-10-16T00:00:00.000Z",
+   "views": 19,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261017_4ec30ld2",
+   "date": "2026-10-17T00:00:00.000Z",
+   "views": 10,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261018_j0y62x20",
+   "date": "2026-10-18T00:00:00.000Z",
+   "views": 9,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261019_fux6hnd5",
+   "date": "2026-10-19T00:00:00.000Z",
+   "views": 7,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261020_xj4vgb4u",
+   "date": "2026-10-20T00:00:00.000Z",
+   "views": 7,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261021_uywf1cg1",
+   "date": "2026-10-21T00:00:00.000Z",
+   "views": 11,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261022_bg7pmx9x",
+   "date": "2026-10-22T00:00:00.000Z",
+   "views": 3,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261023_aufi9fco",
+   "date": "2026-10-23T00:00:00.000Z",
+   "views": 4,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261024_q5ezucp6",
+   "date": "2026-10-24T00:00:00.000Z",
+   "views": 40,
+   "likes": 0,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261025_o8sth95g",
+   "date": "2026-10-25T00:00:00.000Z",
+   "views": 6,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261026_47ruqm4l",
+   "date": "2026-10-26T00:00:00.000Z",
+   "views": 12,
+   "likes": 0,
+   "comments": 2,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261027_78xslvij",
+   "date": "2026-10-27T00:00:00.000Z",
+   "views": 5,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261028_8xopxmd7",
+   "date": "2026-10-28T00:00:00.000Z",
+   "views": 13,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261029_wh66msym",
+   "date": "2026-10-29T00:00:00.000Z",
+   "views": 23,
+   "likes": 3,
+   "comments": 2,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261030_sfvbfqx3",
+   "date": "2026-10-30T00:00:00.000Z",
+   "views": 49,
+   "likes": 2,
+   "comments": 1,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261031_sxz0qe18",
+   "date": "2026-10-31T00:00:00.000Z",
+   "views": 39,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261101_6z34engd",
+   "date": "2026-11-01T00:00:00.000Z",
+   "views": 167,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261102_umgvlvpr",
+   "date": "2026-11-02T00:00:00.000Z",
+   "views": 37,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261103_jpg3ugp0",
+   "date": "2026-11-03T00:00:00.000Z",
+   "views": 26,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261104_0xvxi7cu",
+   "date": "2026-11-04T00:00:00.000Z",
+   "views": 25,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261105_p3vdaot7",
+   "date": "2026-11-05T00:00:00.000Z",
+   "views": 47,
+   "likes": 26,
+   "comments": 5,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261106_j34u52q2",
+   "date": "2026-11-06T00:00:00.000Z",
+   "views": 37,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261107_uul9kedo",
+   "date": "2026-11-07T00:00:00.000Z",
+   "views": 12,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261108_yuld45qg",
+   "date": "2026-11-08T00:00:00.000Z",
+   "views": 3,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261109_moheuvgu",
+   "date": "2026-11-09T00:00:00.000Z",
+   "views": 14,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261110_6ujb3sh4",
+   "date": "2026-11-10T00:00:00.000Z",
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261111_hnqtqz4d",
+   "date": "2026-11-11T00:00:00.000Z",
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261112_475ep628",
+   "date": "2026-11-12T00:00:00.000Z",
+   "views": 16,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  },
+  {
+   "id": "m_20261113_653kk597",
+   "date": "2026-11-13T00:00:00.000Z",
+   "views": 10,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saves": 0,
+   "platform": "抖音"
+  }
+ ],
  "accounts": []
 }
